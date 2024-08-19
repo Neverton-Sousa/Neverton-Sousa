@@ -36,10 +36,5 @@
   <img width="12" />
           
   
-</div>
-###
 
-<img src="https://raw.githubusercontent.com/Nev/Nev/output/snake.svg" alt="Snake animation" />
-
-###
 
