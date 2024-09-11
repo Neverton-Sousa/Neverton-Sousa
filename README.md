@@ -14,6 +14,13 @@
 
 ###
 
+## Contato
+<div> 
+ <a href = "https://w.app/nevertonsousa"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  
+ <a href="https://www.linkedin.com/in/neverton-sousa-191708249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:nevertonsousa2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> 
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -34,6 +41,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
+
+</div>
+
+## Certificações
+<div>
+ <a href="https://www.credly.com/badges/163145e0-a46b-4a85-9aa6-cc11fbb43ffd" rel="noreferrer"><img align="center" alt="AWS Cloud Practitioner" height="100" width="100" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+</div>
           
   
 
